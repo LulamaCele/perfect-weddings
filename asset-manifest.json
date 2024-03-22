@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed4fc159.css",
-    "main.js": "/static/js/main.5c169656.js",
-    "static/js/787.5f540170.chunk.js": "/static/js/787.5f540170.chunk.js",
-    "static/media/gallery-main.jpg": "/static/media/gallery-main.244489c2ad5e965280e4.jpg",
-    "static/media/gallery-4.jpg": "/static/media/gallery-4.c3b530a4e63b5caa28be.jpg",
-    "static/media/gallery-6.jpg": "/static/media/gallery-6.87378fb6dc53c096d202.jpg",
-    "static/media/gallery-5.jpg": "/static/media/gallery-5.898017e96bc1fa7d4fe1.jpg",
-    "static/media/allison-heine-unsplash.jpg": "/static/media/allison-heine-unsplash.20ebf1212ef16afcfd9c.jpg",
-    "static/media/pexels-pixabay-265856.jpg": "/static/media/pexels-pixabay-265856.9e732718767f1d1c0f4f.jpg",
-    "static/media/main-picture.jpg": "/static/media/main-picture.92725054be1f4666ea63.jpg",
-    "static/media/gallery-1.jpg": "/static/media/gallery-1.58620741410d14a69433.jpg",
-    "static/media/gallery-2.jpg": "/static/media/gallery-2.4373a4d5ca5a6493794b.jpg",
-    "static/media/marc-babin.jpg": "/static/media/marc-babin.64a992f2d4c23d475357.jpg",
-    "static/media/pexels-carsten-vollrath-13381459.jpg": "/static/media/pexels-carsten-vollrath-13381459.37efe3e660dbf432b11f.jpg",
-    "static/media/pexels-joanne-xavier-7146232.jpg": "/static/media/pexels-joanne-xavier-7146232.110912c44094253741fb.jpg",
-    "static/media/gallery-3.jpg": "/static/media/gallery-3.71ea740a3c38004a124c.jpg",
-    "index.html": "/index.html",
-    "static/media/bars-solid.svg": "/static/media/bars-solid.69707d7401c01382651c5c630dc731f2.svg",
-    "main.ed4fc159.css.map": "/static/css/main.ed4fc159.css.map",
-    "main.5c169656.js.map": "/static/js/main.5c169656.js.map",
-    "787.5f540170.chunk.js.map": "/static/js/787.5f540170.chunk.js.map"
+    "main.css": "/pergect-weddings/static/css/main.ed4fc159.css",
+    "main.js": "/pergect-weddings/static/js/main.509e77b4.js",
+    "static/js/787.5f540170.chunk.js": "/pergect-weddings/static/js/787.5f540170.chunk.js",
+    "static/media/gallery-main.jpg": "/pergect-weddings/static/media/gallery-main.244489c2ad5e965280e4.jpg",
+    "static/media/gallery-4.jpg": "/pergect-weddings/static/media/gallery-4.c3b530a4e63b5caa28be.jpg",
+    "static/media/gallery-6.jpg": "/pergect-weddings/static/media/gallery-6.87378fb6dc53c096d202.jpg",
+    "static/media/gallery-5.jpg": "/pergect-weddings/static/media/gallery-5.898017e96bc1fa7d4fe1.jpg",
+    "static/media/allison-heine-unsplash.jpg": "/pergect-weddings/static/media/allison-heine-unsplash.20ebf1212ef16afcfd9c.jpg",
+    "static/media/pexels-pixabay-265856.jpg": "/pergect-weddings/static/media/pexels-pixabay-265856.9e732718767f1d1c0f4f.jpg",
+    "static/media/main-picture.jpg": "/pergect-weddings/static/media/main-picture.92725054be1f4666ea63.jpg",
+    "static/media/gallery-1.jpg": "/pergect-weddings/static/media/gallery-1.58620741410d14a69433.jpg",
+    "static/media/gallery-2.jpg": "/pergect-weddings/static/media/gallery-2.4373a4d5ca5a6493794b.jpg",
+    "static/media/marc-babin.jpg": "/pergect-weddings/static/media/marc-babin.64a992f2d4c23d475357.jpg",
+    "static/media/pexels-carsten-vollrath-13381459.jpg": "/pergect-weddings/static/media/pexels-carsten-vollrath-13381459.37efe3e660dbf432b11f.jpg",
+    "static/media/pexels-joanne-xavier-7146232.jpg": "/pergect-weddings/static/media/pexels-joanne-xavier-7146232.110912c44094253741fb.jpg",
+    "static/media/gallery-3.jpg": "/pergect-weddings/static/media/gallery-3.71ea740a3c38004a124c.jpg",
+    "index.html": "/pergect-weddings/index.html",
+    "static/media/bars-solid.svg": "/pergect-weddings/static/media/bars-solid.69707d7401c01382651c5c630dc731f2.svg",
+    "main.ed4fc159.css.map": "/pergect-weddings/static/css/main.ed4fc159.css.map",
+    "main.509e77b4.js.map": "/pergect-weddings/static/js/main.509e77b4.js.map",
+    "787.5f540170.chunk.js.map": "/pergect-weddings/static/js/787.5f540170.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed4fc159.css",
-    "static/js/main.5c169656.js"
+    "static/js/main.509e77b4.js"
   ]
 }
