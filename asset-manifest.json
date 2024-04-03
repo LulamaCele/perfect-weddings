@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/perfect-weddings/static/css/main.ed4fc159.css",
-    "main.js": "/perfect-weddings/static/js/main.75d8194b.js",
+    "main.js": "/perfect-weddings/static/js/main.08521500.js",
     "static/js/787.5f540170.chunk.js": "/perfect-weddings/static/js/787.5f540170.chunk.js",
     "static/media/gallery-main.jpg": "/perfect-weddings/static/media/gallery-main.244489c2ad5e965280e4.jpg",
     "static/media/gallery-4.jpg": "/perfect-weddings/static/media/gallery-4.c3b530a4e63b5caa28be.jpg",
@@ -19,11 +19,11 @@
     "index.html": "/perfect-weddings/index.html",
     "static/media/bars-solid.svg": "/perfect-weddings/static/media/bars-solid.69707d7401c01382651c5c630dc731f2.svg",
     "main.ed4fc159.css.map": "/perfect-weddings/static/css/main.ed4fc159.css.map",
-    "main.75d8194b.js.map": "/perfect-weddings/static/js/main.75d8194b.js.map",
+    "main.08521500.js.map": "/perfect-weddings/static/js/main.08521500.js.map",
     "787.5f540170.chunk.js.map": "/perfect-weddings/static/js/787.5f540170.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed4fc159.css",
-    "static/js/main.75d8194b.js"
+    "static/js/main.08521500.js"
   ]
 }
