@@ -1,5 +1,6 @@
 import React from "react";
 import "./services.css";
+import {Link } from 'react-router-dom';
 import { Nav } from "../../components/nav/Nav";
 import { Footer } from "../../components/footer/Footer";
 import servicespgpic from "../../images/pexels-pixabay-265856.jpg";
@@ -19,22 +20,22 @@ export function Services() {
           <div className="service-item">
             <p>Wedding Coordinator</p>
             <p>R350.00</p>
-            <button className="service-btn">Book</button>
+            <Link to='/contact'><button className="service-btn">Book</button></Link>
           </div>
           <div className="service-item">
             <p>Destination Wedding</p>
             <p>R350.00</p>
-            <button className="service-btn">Book</button>
+            <Link to='/contact'><button className="service-btn">Book</button></Link>
           </div>
           <div className="service-item">
             <p>Full Package</p>
             <p>R350.00</p>
-            <button className="service-btn">Book</button>
+            <Link to='/contact'><button className="service-btn">Book</button></Link>
           </div>
           <div className="service-item">
             <p>Partial Package</p>
             <p>R350.00</p>
-            <button className="service-btn">Book</button>
+            <Link to='/contact'><button className="service-btn">Book</button></Link>
           </div>
         </div>
       </div>

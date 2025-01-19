@@ -1,5 +1,6 @@
 import React from 'react';
 import './testimonialsCTA.css';
+import { Link } from 'react-router-dom';
 import testictaimg from '../../images/pexels-carsten-vollrath-13381459.jpg';
 
 export function TestimonialsCTA() {
@@ -8,11 +9,11 @@ export function TestimonialsCTA() {
             <div className="testimonial-descrip">
                 <p className='sub-title'><span>T</span>estimonials</p>
                 <p className='description'>
-                    This is the only one stop you need to plan your perfect wedding.
-                    We got you covered from decoration, cake, make-up, dresses, suits,
-                    agian we got you covered.
+                   I was so impressed with perfect weddings, they took care of our needs and everything was just perfect for our wedding. I highly recommend them.
                 </p>
-                <button className='btn-cta'>View Our Packages</button>
+                <Link to='/testimonials'>
+                <button className='btn-cta'>View Our Testimonials</button>
+                </Link>
             </div>
             <div className="img-container-cta">
                 <img src={testictaimg} alt="" />

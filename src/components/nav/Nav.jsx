@@ -11,7 +11,7 @@ export function Nav() {
                     <label for="check" class="checkbtn">
                         <img src={bars} alt="menu-bar"/>
                     </label>
-                    <Link to={`/`}>
+                    <Link to={`/perfect-weddings`}>
                     <label class="logo">Perfect Weddings</label>
                     </Link>
                     <ul>

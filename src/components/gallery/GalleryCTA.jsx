@@ -1,5 +1,6 @@
 import React from "react";
 import "./gallery.css";
+import { Link } from "react-router-dom";
 import galleryctaimg from "../../images/allison-heine-unsplash.jpg";
 
 export function GalleryCTA() {
@@ -13,11 +14,10 @@ export function GalleryCTA() {
           <span>G</span>allery
         </p>
         <p className="description">
-          This is the only one stop you need to plan your perfect wedding. We
-          got you covered from decoration, cake, make-up, dresses, suits, agian
-          we got you covered.
+          Take a look at our amazing newly wed couples and picture yourself on your special day looking as amazing as they do.
+          Guess what we can make it happen for you too.
         </p>
-        <button className="btn-cta">View Our Packages</button>
+        <Link to='/gallery'>        <button className="btn-cta">View Our Gallery</button></Link>
       </div>
     </div>
   );

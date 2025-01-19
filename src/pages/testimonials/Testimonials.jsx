@@ -15,11 +15,7 @@ export function Testimonials() {
         <div className="test-item">
           <h2>Mike & Jessica</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum
-            fusce ut placerat orci nulla pellentesque dignissim enim sit. Id
-            aliquet lectus proin nibh nisl condimentum. Sed viverra ipsum nunc
-            aliquet bibendum enim facilisis gravida.
+          "We couldn't have asked for a better wedding service provider than Perfect Weddings. They truly went above and beyond to make our special day perfect in every way. From the stunning decor to the flawless coordination, everything was seamless and exceeded our expectations."
           </p>
         </div>
         <div className="imge-container">
@@ -33,11 +29,7 @@ export function Testimonials() {
         <div className="test-item" id="testimonial-item">
           <h2>Jin & Kim</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum
-            fusce ut placerat orci nulla pellentesque dignissim enim sit. Id
-            aliquet lectus proin nibh nisl condimentum. Sed viverra ipsum nunc
-            aliquet bibendum enim facilisis gravida.
+          "Choosing Perfect Weddings for our wedding was the best decision we made. Their attention to detail and professionalism was unparalleled. Our guests are still raving about how beautiful and well-organized everything was. Thank you for making our dream wedding a reality!"
           </p>
         </div>
       </div>
@@ -45,11 +37,7 @@ export function Testimonials() {
         <div className="test-item">
           <h2>Gigi & Alex</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum
-            fusce ut placerat orci nulla pellentesque dignissim enim sit. Id
-            aliquet lectus proin nibh nisl condimentum. Sed viverra ipsum nunc
-            aliquet bibendum enim facilisis gravida.
+          "I cannot recommend Perfect Weddings enough for anyone looking for a top-notch wedding service provider. They took the time to understand our vision and executed it flawlessly. Our wedding day was stress-free and absolutely magical, all thanks to their amazing team."
           </p>
         </div>
         <div className="imge-container">
@@ -63,11 +51,7 @@ export function Testimonials() {
         <div className="test-item" id="testimonial-item">
           <h2>Sakura & Naruto</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum
-            fusce ut placerat orci nulla pellentesque dignissim enim sit. Id
-            aliquet lectus proin nibh nisl condimentum. Sed viverra ipsum nunc
-            aliquet bibendum enim facilisis gravida.
+          "If you want a stress-free wedding planning experience, look no further than Perfect Weddings. Their team is not only incredibly talented but also a joy to work with. They took care of every little detail, allowing us to relax and enjoy every moment of our special day. Thank you for creating memories that will last a lifetime."
           </p>
         </div>
       </div>

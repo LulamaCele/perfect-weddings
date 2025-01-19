@@ -39,7 +39,7 @@ nav ul li a {
 }
 
 
-a:hover,a.active {
+li:hover {
     background: blanchedalmond;
     transition: .5s;
 }

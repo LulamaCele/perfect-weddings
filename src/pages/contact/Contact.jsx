@@ -25,7 +25,6 @@ export function Contact() {
     const templateParams = {
       from_name: name,
       from_email: email,
-      to_name: "Business Owner",
       message: message,
     };
 
@@ -37,10 +36,13 @@ export function Contact() {
         setName("");
         setEmail("");
         setMessage("");
+        alert("Email sent successfully!")
       })
       .catch((error) => {
         console.error("Error sending email:", error);
+        alert('Something went wrong!')
       });
+     
   };
 
   return (
@@ -56,12 +58,14 @@ export function Contact() {
                 type="text"
                 placeholder="name"
                 value={name}
+                required
                 onChange={(e) => setName(e.target.value)}
               />
               <input
                 type="email"
                 placeholder="email"
                 value={email}
+                required
                 onChange={(e) => setEmail(e.target.value)}
               />
               {/* <input type="text" placeholder='Subject' value={subject} onChange={(e) => setSubject(e.target.value)} /> */}
@@ -72,9 +76,10 @@ export function Contact() {
                 rows="10"
                 placeholder="type your message here..."
                 value={message}
+                required
                 onChange={(e) => setMessage(e.target.value)}
               ></textarea>
-              <button>Send</button>
+              <button type="submit">Send</button>
             </form>
           </div>
 
