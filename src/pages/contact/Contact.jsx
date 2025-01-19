@@ -16,9 +16,9 @@ export function Contact() {
     e.preventDefault();
 
     // Emailjs service ID, template ID, and Public Key
-    const serviceId = "service_4as138a";
-    const templateId = "template_mvllcf5";
-    const publicKey = "Rlzkpz7do8IJ7tYBN";
+    const serviceId = process.env.REACT_APP_SERVICE_ID;
+    const templateId =  process.env.REACT_APP_TEMPLATE_ID;
+    const publicKey = process.env.REACT_APP_PUBLIC_KEY;
 
     // Create a new object that contains dynamic template params
 
